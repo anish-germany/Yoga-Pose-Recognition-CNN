@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/gendubali/47-yoga-pose-detection
 ### Dataset Statistics
 
 * Number of Classes: 47
-* Total Images: Approximately 44,000+
+* Total Images: 59759
 * Image Type: RGB Images (.jpg, .png)
 * Input Size: 224 × 224 × 3
 
