@@ -115,7 +115,25 @@ pip install -r requirements.txt
 
 https://www.kaggle.com/code/anishkhobragadee/notebookml2
 
----
+## Instructions for Running the Code
+Download the dataset from the Kaggle link above.
+Open notebookml2.ipynb in Kaggle or Jupyter Notebook.
+Install required libraries:
+
+pip install tensorflow keras numpy pandas matplotlib seaborn opencv-python scikit-learn shap
+
+Update the dataset path if needed.
+Run all notebook cells sequentially.
+Output files will be generated automatically.
+Repository Structure
+figures/ – Visualizations and plots
+models/ – Saved trained models
+tables/ – Classification reports and result tables
+notebookml2.ipynb – Main notebook
+README.md – Project documentation
+Kaggle Notebook
+
+
 
 ## Author
 
